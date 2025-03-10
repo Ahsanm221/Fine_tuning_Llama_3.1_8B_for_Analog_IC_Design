@@ -1,4 +1,4 @@
-# Fine Tuning Llama 3.1 - 8B Instruct from META for Two Stage Amplifier Design. Comparative Analysis. 
+# Fine Tuning Llama 3.1 - 8B Instruct from META for Two Stage Amplifier Design. Comparative Analysis with Mistral - 7B and GPT-4. 
 Works as a smart assistant for a Analog Circuit Designer. 
 Further work being done, by supplementing a RAG model to further enhance accuracy and performance.
 
