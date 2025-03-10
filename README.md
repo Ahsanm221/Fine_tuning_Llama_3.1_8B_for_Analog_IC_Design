@@ -1,32 +1,6 @@
-# Gunicorn Server Starter
+# Fine Tuning Llama 3.1 - 8B Instruct from META for Two Stage Amplifier Design. Comparative Analysis. 
+Works as a smart assistant for a Analog Circuit Designer. 
+Further work being done, by supplementing a RAG model to further enhance accuracy and performance.
 
-This is the simplest possible python api using gunicorn.
-
-To all requests it returns:
-```
-Hello, world!
-```
-
-## Deploy to Cyclic in seconds 
-
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
-
-
-## Run Locally
-
-Prerequisites:
-- python 3.10.11
-
-Install: `bin/install`
-- creates virtual env
-- installs dependencies from `requirements.txt`
-
-Run: `bin/start`
-- runs a `gunicorn` server
-
-
-## Questions / Help
-
-Join us on Discord: [https://discord.cyclic.sh](https://discord.cyclic.sh)
-
-Enjoy!
+## 📄 Research Paper
+[Download the PDF](https://github.com/YOUR_USERNAME/Fine_tuning_Llama_3.1_8B_for_Analog_IC_Design/blob/main/my_report.pdf)
